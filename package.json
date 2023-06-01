@@ -6,6 +6,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pendragonnn/portonya-wisnu.com.git"
+  },
+  "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pendragonnn/portonya-wisnu.com/issues"
+  },
+  "homepage": "https://github.com/pendragonnn/portonya-wisnu.com#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
+  }
 }
